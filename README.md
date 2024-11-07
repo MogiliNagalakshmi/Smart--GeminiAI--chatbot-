@@ -1,6 +1,8 @@
 # Interactive Chatbot with Google's Gemini 1.5 Pro Model
 
-This Python script demonstrates how to interact with Google's Gemini 1.5 Pro model using the google.generativeai library. The script enables you to create an interactive conversation with the AI model, where you can ask questions, and it will respond accordingly, maintaining context between exchanges. The code uses a simple terminal interface for continuous interaction and stores the conversation history for better context in future exchanges.
+1. This Python script demonstrates how to interact with Google's Gemini 1.5 Pro model using the google.generativeai library.
+2. The script enables you to create an interactive conversation with the AI model, where you can ask questions, and it will respond accordingly, maintaining context between exchanges.
+3. The code uses a simple terminal interface for continuous interaction and stores the conversation history for better context in future exchanges.
 
 Features:
 1. Interactive Chat Interface: Engage with the Gemini model in a question-and-answer format.
